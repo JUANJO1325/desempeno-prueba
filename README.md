@@ -1,12 +1,37 @@
-# React + Vite
+📱 Gestor de Suscripciones Digitales
+Proyecto desarrollado por Juan José Osorno, estudiante del Programa Técnico Laboral como Asistente en Desarrollo de Software, submódulo Web 2, nivel 3, bajo la dirección del docente Jaime Zapata Valencia.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Clase: Martes a las 7:30 a.m.
 
-Currently, two official plugins are available:
+📌 Descripción
+Esta es una aplicación web desarrollada con React JS que permite a los usuarios autenticados gestionar sus suscripciones digitales. Los usuarios pueden iniciar sesión, registrar nuevas suscripciones, editar, buscar, eliminar y visualizar todas sus suscripciones activas. El proyecto cuenta con una interfaz sencilla, rutas protegidas y validación de usuario desde una API simulada con json-server.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🚀 Funcionalidades Principales
+🔐 Inicio de sesión básico con validación contra API
 
-## Expanding the ESLint configuration
+🆕 Registro de usuario (opcional como extra)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📋 Listado de suscripciones
+
+🔍 Búsqueda de suscripciones por nombre
+
+📝 Edición de una suscripción
+
+❌ Eliminación con confirmación vía SweetAlert2
+
+➕ Registro de nuevas suscripciones
+
+🚪 Cerrar sesión con restricción de rutas protegidas
+
+🛠️ Tecnologías y herramientas
+React JS (useState, useEffect, props, react-router-dom)
+
+JavaScript ES6+ (manejo de eventos, arreglos, objetos)
+
+HTML y CSS (maquetación semántica y estilos visuales básicos)
+
+API local simulada con json-server
+
+SweetAlert2 para confirmación de eliminación
+
+Despliegue en Verce
