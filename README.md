@@ -3,6 +3,8 @@ Proyecto desarrollado por Juan José Osorno, estudiante del Programa Técnico La
 
 Clase: Martes a las 7:30 a.m.
 
+Versel: https://desempeno-prueba.vercel.app/login
+
 📌 Descripción
 Esta es una aplicación web desarrollada con React JS que permite a los usuarios autenticados gestionar sus suscripciones digitales. Los usuarios pueden iniciar sesión, registrar nuevas suscripciones, editar, buscar, eliminar y visualizar todas sus suscripciones activas. El proyecto cuenta con una interfaz sencilla, rutas protegidas y validación de usuario desde una API simulada con json-server.
 
