@@ -1,7 +1,7 @@
 // src/services/api.js
-const API_URL = 'http://localhost:3001';
+const API_URL = 'https://desempeno-prueba-bd.onrender.com';
 
-// Función para autenticar usuario
+// Función para autenticar el usuario
 export const loginUser = async (email, password) => {
   const response = await fetch(`${API_URL}/users?email=${email}&password=${password}`);
   if (!response.ok) {
