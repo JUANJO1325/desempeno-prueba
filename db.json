@@ -1,0 +1,66 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "user@example.com",
+      "password": "password123"
+    },
+    {
+      "id": "db65",
+      "email": "juanjo123osorno@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "e43a",
+      "email": "josorno@cesde.net",
+      "password": "12345"
+    },
+    {
+      "id": "abcc",
+      "email": "ad@gmail.com",
+      "password": "12345"
+    }
+  ],
+  "subscriptions": [
+    {
+      "id": "1",
+      "userId": 1,
+      "name": "Netflix",
+      "price": 15.99,
+      "category": "Entretenimiento",
+      "renewalDate": "2025-07-15"
+    },
+    {
+      "id": "2",
+      "userId": 1,
+      "name": "Spotify",
+      "price": 9.99,
+      "category": "Música",
+      "renewalDate": "2025-07-20"
+    },
+    {
+      "id": "d258",
+      "name": "canva",
+      "price": 12900,
+      "category": "ENTRETENIMIENTO",
+      "renewalDate": "2021-02-12",
+      "userId": "e43a"
+    },
+    {
+      "id": "963e",
+      "name": "SOAT",
+      "price": 224400,
+      "category": "Mensualidad",
+      "renewalDate": "2022-11-25",
+      "userId": "e43a"
+    },
+    {
+      "id": "d58a",
+      "name": "Cuota natilleraadadad",
+      "price": 12222,
+      "category": "Mensualidad",
+      "renewalDate": "2023-11-25",
+      "userId": "e43a"
+    }
+  ]
+}
